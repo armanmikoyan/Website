@@ -1,0 +1,88 @@
+.section5 {
+  background-image: url("../../../../Downloads/Rectangle.png");
+  font-family: "Montserrat", sans-serif;
+  min-height: 1000px;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 85px;
+}
+
+.section5 .img {
+  position: absolute;
+
+  margin-top: 750px;
+}
+
+.section5 .btn {
+  position: absolute;
+  margin-top: 850px;
+  border: 1px solid #fff;
+  padding: 30px 100px;
+  border-radius: 70px;
+  display: flex;
+  align-items: center;
+  gap: 30px;
+}
+
+.btn h1 {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 25px;
+
+  color: #ffffff;
+}
+
+.subscribe {
+  margin-top: 1250px;
+}
+
+.subscribe h1 {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 22px;
+  text-align: center;
+  color: #000000;
+  margin-bottom: 20px;
+}
+
+.subscribe p {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 25px;
+  text-align: center;
+  margin-bottom: 30px;
+  color: #999999;
+}
+
+.sub {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #ffffff;
+  border: 1px solid #f2f2f2;
+  box-shadow: 0px 0px 10px rgba(111, 111, 111, 0.25);
+  border-radius: 30px;
+  max-width: 450px;
+  margin: 30px;
+}
+
+.sub p {
+  margin: 20px;
+}
+
+.sub .p {
+  background: #4985ff;
+  color: #fff;
+  box-shadow: 0px 0px 10px rgba(111, 111, 111, 0.25);
+  border-radius: 0px 30px 30px 0px;
+  margin: 0;
+  padding: 20px;
+}

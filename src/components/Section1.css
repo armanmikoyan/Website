@@ -1,0 +1,79 @@
+.section {
+  background-color: #fefefe;
+  min-height: 500px;
+  padding-left: 400px;
+  padding-right: 400px;
+  text-align: center;
+}
+
+.service {
+  padding-top: 110px;
+  padding-bottom: 90px;
+  display: flex;
+  gap: 30px;
+  justify-content: center;
+}
+
+.section h1 {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 53px;
+  text-align: center;
+  width: 730px;
+  margin: 0 auto;
+  padding-top: 110px;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 80px;
+  border: 2px solid rgb(210, 201, 201);
+  width: 300px;
+  padding: 50px;
+  border-radius: 5px;
+}
+
+.card img {
+  height: 70px;
+  width: 70px;
+  margin-bottom: 10px;
+}
+
+h3 {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 21px;
+  line-height: 22px;
+  padding: 0;
+  margin: 0;
+  color: #000000;
+}
+
+.card span {
+  margin-top: 10px;
+  width: 200px;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 22px;
+  color: #999999;
+}
+
+.section button {
+  background: #4985ff;
+  box-shadow: 0px 0px 10px rgba(111, 111, 111, 0.25);
+  border-radius: 30px;
+  width: 200px;
+  height: 45px;
+  color: #fff;
+  font-size: 18px;
+  line-height: 20px;
+  margin-bottom: 110px;
+}

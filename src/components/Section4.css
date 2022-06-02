@@ -1,0 +1,55 @@
+.section4 {
+  background: #f6f6f8;
+  min-height: 776px;
+
+  margin: 600px auto;
+  margin-bottom: 0px;
+}
+
+.paragraf {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin: 0 auto;
+  width: 710px;
+}
+
+.paragraf h1 {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 53px;
+  text-align: center;
+  color: #000000;
+  margin-top: 100px;
+}
+
+.paragraf p {
+  text-align: center;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 25px;
+  text-align: center;
+  margin-bottom: 70px;
+  color: #999999;
+}
+
+.cards4 {
+  display: flex;
+  gap: 30px;
+}
+
+.section4 button {
+  background: #4985ff;
+  box-shadow: 0px 0px 10px rgba(111, 111, 111, 0.25);
+  border-radius: 30px;
+  width: 200px;
+  height: 45px;
+  color: #fff;
+  font-size: 18px;
+  line-height: 20px;
+  margin-top: 70px;
+}
