@@ -5,6 +5,13 @@
   background-repeat: no-repeat;
   background-size: 100%;
   min-width: 100%;
+
+  min-width: 1300px;
+  font-family: "Montserrat", sans-serif;
+
+  background-size: cover;
+  padding-bottom: 100px;
+
 }
 
 
