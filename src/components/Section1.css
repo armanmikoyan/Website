@@ -1,17 +1,19 @@
 .section {
   background-color: #fefefe;
-  min-height: 500px;
-  padding-left: 400px;
-  padding-right: 400px;
-  text-align: center;
+  min-width: 1300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
 
 .service {
   padding-top: 110px;
   padding-bottom: 90px;
   display: flex;
-  gap: 30px;
+  gap: 20px;
   justify-content: center;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 .section h1 {
@@ -33,7 +35,7 @@
   align-items: center;
   margin-top: 80px;
   border: 2px solid rgb(210, 201, 201);
-  width: 300px;
+  min-width: 300px;
   padding: 50px;
   border-radius: 5px;
 }
@@ -75,5 +77,6 @@ h3 {
   color: #fff;
   font-size: 18px;
   line-height: 20px;
-  margin-bottom: 110px;
+  margin-bottom: 110px !important;
+  margin: 0 auto;
 }

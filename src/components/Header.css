@@ -1,9 +1,10 @@
 .header {
-  background-image: url("../../../../Downloads/Rectangle.png");
+  background-image: url("../../../../Desktop/adaptive/Rectangle.png");
+  min-width: 1300px;
   font-family: "Montserrat", sans-serif;
-  min-height: 1000px;
-  background-repeat: no-repeat;
-  background-size: 100%;
+
+  background-size: cover;
+  padding-bottom: 100px;
 }
 
 .header .list {
