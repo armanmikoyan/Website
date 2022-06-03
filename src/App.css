@@ -1,5 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap");
 
 .app {
-  width: 2240px;
+  min-width: 1920px;
+
 }
